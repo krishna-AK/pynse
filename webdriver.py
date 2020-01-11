@@ -3,7 +3,7 @@ import time
 from fake_useragent import UserAgent
 
 
-DPATH = 'C:/Users/krish/Downloads/chromedriver_win32/chromedriver.exe'
+DPATH = 'chromedriver.exe'
 
 
 
