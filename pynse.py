@@ -41,7 +41,7 @@ def getIndicesTable(time_out = 10):
     t = r.findall(content)
     if t == None:
         releaseResources()
-        print('EROOR :: NULL OBJECT RETURNED!')
+        print('ERROR :: NULL OBJECT RETURNED!')
         quit()
     # print(t)
     for i in t:
